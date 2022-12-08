@@ -282,7 +282,7 @@
               "widgetId": "k7hn15hfap",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
-              "label": "Label Text15.text {{TextMySQL1.text}}\n",
+              "label": "Label Text15.text {{TextMySQL2.text}}\n",
               "version": 2,
               "parentId": "0",
               "labelAlignment": "left",
@@ -295,7 +295,7 @@
               "minDynamicHeight": 4
             },
             {
-              "widgetName": "TextMySQL1",
+              "widgetName": "TextMySQL2",
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
               "searchTags": [
