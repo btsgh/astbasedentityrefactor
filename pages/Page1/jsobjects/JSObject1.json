@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//{{MultiTreeSelect35.isVisible}}use async-await or promises MultiTreeSelect35.isVisible\n\t\tconsole.log(\"MultiTreeSelect35.isVisible\"); {{MultiTreeSelect37.isVisible}}\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject1",
+  "deleted": false,
+  "gitSyncId": "63860a4a20279b7e236297b6_63899cc43dc9bb05e8a66660"
+}
